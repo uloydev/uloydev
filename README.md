@@ -11,5 +11,5 @@ Perkenalkan nama saya **Wahyu Miftahul Aflah**.
 
 - 🔭 I’m currently working on Telkomsigma
 - 🌱 I’m currently learning Golang
-- 📫 How to reach me: uloydev@gmail.com
+- 📫 How to reach me: wahyumiftahul7@gmail.com / uloydev@gmail.com
 - ⚡ Fun fact: i like golang because its :=
